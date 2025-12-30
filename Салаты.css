@@ -570,7 +570,7 @@
     min-height: 128px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 615px;
+  min-height: 1426px;
 }
 
 .u-section-3 .u-products-1 {
@@ -926,6 +926,10 @@
   .u-section-4 .u-text-1 {
     margin-right: 83px;
     margin-left: 124px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-top: 20px;
   }
 
   .u-section-4 .u-layout-cell-2 {
