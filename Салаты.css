@@ -271,44 +271,16 @@
   padding: 30px;
 }
 
-.u-section-2 .u-categories-1 {
-  margin: 50px auto 0 70px;
-}
-
-.u-section-2 .u-categories-item-content-1 {
-  margin-right: 5px;
-  margin-bottom: 0;
-  padding: 10px;
-}
-
-.u-section-2 .u-categories-item-content-2 {
-  margin-right: 5px;
-  margin-bottom: 0;
-  padding: 10px;
-}
-
-.u-section-2 .u-categories-item-content-3 {
-  margin-right: 5px;
-  margin-bottom: 0;
-  padding: 10px;
-}
-
-.u-section-2 .u-categories-item-content-4 {
-  margin-right: 5px;
-  margin-bottom: 0;
-  padding: 10px;
-}
-
 .u-section-2 .u-products-1 {
-  margin-top: 70px;
+  margin-top: 92px;
   margin-bottom: 60px;
 }
 
 .u-section-2 .u-repeater-1 {
-  grid-template-columns: repeat(3, 33.3333%);
-  min-height: 462px;
+  grid-template-columns: repeat(4, 25%);
+  min-height: 155px;
   --gap: 0px;
-  grid-auto-columns: 33.3333%;
+  grid-auto-columns: 25%;
 }
 
 .u-section-2 .u-container-layout-15 {
@@ -362,6 +334,24 @@
 }
 
 .u-section-2 .u-text-14 {
+  margin: 27px auto 0;
+}
+
+.u-section-2 .u-container-layout-18 {
+  padding: 30px 20px;
+}
+
+.u-section-2 .u-image-6 {
+  height: 272px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-15 {
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-text-16 {
   margin: 27px auto 0;
 }
 
@@ -461,19 +451,13 @@
     min-height: 178px;
   }
 
-  .u-section-2 .u-categories-1 {
-    margin-left: 0;
-  }
-
   .u-section-2 .u-products-1 {
     height: auto;
   }
 
   .u-section-2 .u-repeater-1 {
-    grid-template-columns: repeat(3, 33.333333333333336%);
-    grid-auto-columns: 33.333333333333336%;
     grid-gap: 0px;
-    min-height: 381px;
+    min-height: 128px;
   }
 }
 
@@ -557,7 +541,7 @@
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(2, 50%);
     grid-auto-columns: 50%;
-    min-height: 875px;
+    min-height: 392px;
   }
 }
 
@@ -656,6 +640,11 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-2 .u-container-layout-18 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -707,7 +696,7 @@
   }
 
   .u-section-2 .u-products-1 {
-    margin-top: 112px;
+    margin-top: -302px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 714px;
