@@ -80,18 +80,18 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin: -383px 0 0 532px;
+  margin: -328px 5px 0 527px;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 81px 0 0 527px;
+  margin: 50px -9px 0 536px;
 }
 
 .u-section-1 .u-btn-1 {
   --radius: 6px;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: 192px 25px 0 auto;
+  margin: 167px 25px 0 auto;
   padding: 8px 33px;
 }
 
@@ -125,6 +125,7 @@
   }
 
   .u-section-1 .u-text-1 {
+    margin-right: 0;
     margin-left: 330px;
   }
 
